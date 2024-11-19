@@ -1,0 +1,14 @@
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/bin/Debug/net8.0/HotelBookingManagement
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/bin/Debug/net8.0/HotelBookingManagement.deps.json
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/bin/Debug/net8.0/HotelBookingManagement.runtimeconfig.json
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/bin/Debug/net8.0/HotelBookingManagement.dll
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/bin/Debug/net8.0/HotelBookingManagement.pdb
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/obj/Debug/net8.0/HotelBookingManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/obj/Debug/net8.0/HotelBookingManagement.AssemblyInfoInputs.cache
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/obj/Debug/net8.0/HotelBookingManagement.AssemblyInfo.cs
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/obj/Debug/net8.0/HotelBookingManagement.csproj.CoreCompileInputs.cache
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/obj/Debug/net8.0/HotelBookingManagement.dll
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/obj/Debug/net8.0/refint/HotelBookingManagement.dll
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/obj/Debug/net8.0/HotelBookingManagement.pdb
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/obj/Debug/net8.0/HotelBookingManagement.genruntimeconfig.cache
+/Users/ghadah/SDA/Hotel_Booking_Management/HotelBookingManagement/obj/Debug/net8.0/ref/HotelBookingManagement.dll
